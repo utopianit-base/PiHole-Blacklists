@@ -1,2 +1,4 @@
-# pihole-blacklists
-Various Blacklists for the Pi-Hole DNS service 
+# Pi-Hole Blacklists
+Various Blacklists for the Pi-Hole DNS service
+
+
